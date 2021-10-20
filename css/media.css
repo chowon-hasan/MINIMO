@@ -1,0 +1,122 @@
+
+
+
+@media (min-width: 768px) and (max-width: 991px){
+  
+    .social ul {
+        padding: 0;
+    }
+    .navbar-nav {
+        display: inline-block;
+    }
+    .navbar-collapse {
+        text-align: center;
+    }
+        .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+            margin-left: 0px;
+    }
+            body h1 {
+            font-size: 24px;
+        }
+        .text {
+            font-size: 25px;
+        }
+        .newsinput input {
+            padding-left: 0;
+            font-size: 12px;
+        }
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 481px) and (max-width: 767px) {
+    .navbar-nav {
+        display: inline-block;
+    }
+    .navbar-collapse {
+        text-align: center;
+    }
+    .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+         margin-left: 0px;
+    }
+    .phtdry {
+        margin:0px;
+    }
+    .item3 {
+        margin-top: 40px;
+    }
+    .item4 {
+        margin-top: 40px;
+    }
+    .terms ul {
+        justify-content: center;
+    }
+    .social ul {
+        justify-content: center;
+    }
+    .terms ul li {
+        font-size: 14px;
+        margin-right: 13px;
+    }
+
+    
+  }
+
+@media(min-width:320px) and (max-width:480px){
+    .navbar-nav {
+        display: inline-block;
+    }
+    .navbar-collapse {
+        text-align: center;
+    }
+    .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+         margin-left: 0px;
+    }
+    .phtdry {
+        margin:0px;
+    }
+    .item3 {
+        margin-top: 20px;
+    }
+    .item4 {
+        margin-top: 20px;
+    }
+    .newslater {
+        margin-top: 35px;
+    }
+    .text {
+        font-size: 21px;
+    }
+    .newsinput {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .newsinput input {
+       padding-left: 0%;
+    }
+    .terms ul {
+        justify-content: center;
+    }
+    .terms ul li {
+        font-size: 14px;
+        margin-right: 13px;
+    }
+
+    .social ul {
+        justify-content: center;
+    }
+    .itemone {
+        margin-top: 0px;
+    }
+   
+}
